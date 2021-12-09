@@ -1,2 +1,3 @@
 This is all about how to create branches and how to merge branches
-first edit after first commit
+first edit is modified
+second edit after new branch created
